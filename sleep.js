@@ -12,6 +12,6 @@
 }(this, function (exports) {
   exports.sleep = function sleep(ms) {
     var start = new Date().getTime()                       
-    while (new Date().getTime() < start + ms)
+    while (new Date().getTime() < start + ms);
   }
 })
