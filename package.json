@@ -2,6 +2,6 @@
   "name": "sleep.js",
   "version": "0.1.0",
   "main": "./sleep.js",
-  "repository": "h2non/sleep.js"
+  "repository": "h2non/sleep.js",
   "license": "WTFPL"
 }
