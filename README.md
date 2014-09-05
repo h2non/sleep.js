@@ -6,7 +6,7 @@ Sometimes you wanna sleep (in JavaScript too)
 
 ```js
 console.log('Good')
-sleep(1000)
+sleep(1000) // -> in miliseconds
 console.log('Morning') // -> after 1 second
 ```
 
