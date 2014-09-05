@@ -1,12 +1,12 @@
 # sleep.js
 
-Sometimes you wanna sleep (in JavaScript too)
+Sometimes you wanna sleep (in a real blocking way)
 
 ## Usage
 
 ```js
 console.log('Good')
-sleep(1000) // -> in miliseconds
+sleep(1000) // -> miliseconds to wait
 console.log('Morning') // -> after 1 second
 ```
 
