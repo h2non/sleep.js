@@ -1,5 +1,7 @@
 {
-  "name": "sleep.js"
+  "name": "sleep.js",
   "version": "0.1.0",
-  "main": "./sleep.js"
+  "main": "./sleep.js",
+  "repository": "h2non/sleep.js"
+  "license": "WTFPL"
 }
